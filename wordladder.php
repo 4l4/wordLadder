@@ -1,8 +1,6 @@
 <?php
 
-$out = null;
 $wordsPath = "words.txt";
-
 
 function buildDictionary($length)
 {
